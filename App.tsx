@@ -14,6 +14,19 @@ export default function App() {
       <View style={styles.videoContainer}>
         <VideoView style={styles.video} player={player} nativeControls={false} />
         <View style={styles.overlay}>
+          <View style={{
+            flexDirection: 'row',
+            justifyContent: 'space-around',
+            alignItems: 'center',
+            padding: 10,
+          }}>
+            <Text>Aritzia</Text>
+            <View style={{width: 230}}></View>
+            <Text>Search</Text>
+            <View style={{width: 10}}></View>
+            <Text>Cart</Text>
+          </View>
+          <View style={{height: 300}}></View>
           <Text style={styles.overlayText}>The Work Wardrobe</Text>
           <TouchableOpacity style={styles.button}>
             <Text style={styles.buttonText}>Press Me</Text>
@@ -41,12 +54,12 @@ const styles = StyleSheet.create({
   },
   overlay: {
     position: 'absolute',
-    top: 0,
-    left: 0,
+    top: 90,
+    left: 15,
     right: 0,
     bottom: 0,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: 'flex-start',
+    alignItems: 'flex-start',
   },
   overlayText: {
     color: '#fff',
