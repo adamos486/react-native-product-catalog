@@ -1,5 +1,7 @@
 import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from 'react-native';
 import {useVideoPlayer, VideoView} from 'expo-video';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
+import {DetailsHeaderScrollView} from 'react-native-sticky-parallax-header';
 
 const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
 
@@ -10,16 +12,16 @@ export default function App() {
     })
 
     return (
-        <SafeAreaView style={styles.safeArea}>
+        <SafeAreaProvider style={styles.safeArea}>
             <View style={styles.wrapper}>
-                <View style={styles.header}>
-                    <Text style={styles.headerText}>Aritzia</Text>
-                    <View style={{width: 210}}></View>
-                    <Text style={styles.headerText}>Search</Text>
-                    <View style={{width: 10}}></View>
-                    <Text style={styles.headerText}>Cart</Text>
-                </View>
-                <ScrollView contentContainerStyle={styles.container}>
+                <DetailsHeaderScrollView contentContainerStyle={styles.container} stickyHeaderIndices={[0]}>
+                    <View style={styles.header}>
+                        <Text style={styles.headerText}>Aritzia</Text>
+                        <View style={{width: 210}}></View>
+                        <Text style={styles.headerText}>Search</Text>
+                        <View style={{width: 10}}></View>
+                        <Text style={styles.headerText}>Cart</Text>
+                    </View>
                     <View style={styles.videoContainer}>
                         <VideoView style={styles.video} player={player} nativeControls={false}/>
                         <View style={styles.overlay}>
@@ -30,9 +32,9 @@ export default function App() {
                             </TouchableOpacity>
                         </View>
                     </View>
-                </ScrollView>
+                </DetailsHeaderScrollView>
             </View>
-        </SafeAreaView>
+        </SafeAreaProvider>
     );
 }
 
