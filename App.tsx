@@ -2,6 +2,7 @@ import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from
 import {useVideoPlayer, VideoView} from 'expo-video';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {DetailsHeaderScrollView} from 'react-native-sticky-parallax-header';
+import 'react-native-reanimated';
 
 const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
 
