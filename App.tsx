@@ -14,7 +14,9 @@ export default function App() {
             <View style={styles.wrapper}>
                 <View style={styles.header}>
                     <Text style={styles.headerText}>Aritzia</Text>
+                    <View style={{width: 210}}></View>
                     <Text style={styles.headerText}>Search</Text>
+                    <View style={{width: 10}}></View>
                     <Text style={styles.headerText}>Cart</Text>
                 </View>
                 <ScrollView contentContainerStyle={styles.container}>
@@ -45,9 +47,9 @@ const styles = StyleSheet.create({
         left: 0,
         right: 0,
         height: 60,
+        padding: 10,
         backgroundColor: 'rgba(0, 0, 0, 1)',
         flexDirection: 'row',
-        justifyContent: 'space-around',
         alignItems: 'center',
         zIndex: 1000,
     },
