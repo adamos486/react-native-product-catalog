@@ -20,16 +20,16 @@ export default function App() {
             alignItems: 'center',
             padding: 10,
           }}>
-            <Text>Aritzia</Text>
+            <Text style={{color: 'white'}}>Aritzia</Text>
             <View style={{width: 230}}></View>
-            <Text>Search</Text>
+            <Text style={{color: 'white'}}>Search</Text>
             <View style={{width: 10}}></View>
-            <Text>Cart</Text>
+            <Text style={{color: 'white'}}>Cart</Text>
           </View>
           <View style={{height: 300}}></View>
           <Text style={styles.overlayText}>The Work Wardrobe</Text>
           <TouchableOpacity style={styles.button}>
-            <Text style={styles.buttonText}>Press Me</Text>
+            <Text style={styles.buttonText}>Shop Looks</Text>
           </TouchableOpacity>
         </View>
       </View>
