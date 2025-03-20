@@ -28,7 +28,7 @@ const Carousel = () => {
 const styles = StyleSheet.create({
     itemContainer: {
         width: width * 0.41,
-        alignItems: 'center',
+        alignItems: 'flex-start',
         justifyContent: 'center',
         paddingVertical: 5,
         paddingHorizontal: 5,
@@ -36,13 +36,13 @@ const styles = StyleSheet.create({
     image: {
         width: width * 0.4,
         height: width * 0.5,
-        borderRadius: 8,
     },
     itemText: {
         marginTop: 10,
-        fontSize: 18,
+        fontSize: 12,
         fontWeight: 'bold',
-        textAlign: 'center'
+        textAlign: 'left',
+        fontFamily: 'NonSeasonal'
     },
 })
 

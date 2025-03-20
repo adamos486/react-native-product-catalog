@@ -91,6 +91,7 @@ const styles = StyleSheet.create({
         color: '#fff',
         fontSize: 24,
         fontWeight: 'bold',
+        fontFamily: 'NonSeasonal',
         textShadowColor: '#000',
         textShadowOffset: {width: 1, height: 1},
         textShadowRadius: 2,
@@ -105,5 +106,6 @@ const styles = StyleSheet.create({
     buttonText: {
         color: '#fff',
         fontSize: 16,
+        fontFamily: 'NonSeasonal',
     },
 });
