@@ -1,7 +1,8 @@
 import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from 'react-native';
 import {useVideoPlayer, VideoView} from 'expo-video';
 
-const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
+// const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
+const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best,f_auto:video,c_fill,w_540/sp25-wk7-hp-03-18-hero-sm';
 
 export const Home = ({navigation} : {navigation: any}) => {
     const player = useVideoPlayer(videoSource, player => {
