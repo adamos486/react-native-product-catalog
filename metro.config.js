@@ -4,9 +4,11 @@ const {
 } = require('react-native-reanimated/metro-config');
 const { getDefaultConfig } = require('expo/metro-config');
 
-module.exports = (async () => {
-    const config = await getDefaultConfig(__dirname);
-    // Ensure asset extensions include 'png' (and any other needed types)
-    config.resolver.assetExts = [...config.resolver.assetExts, 'png'];
-    return wrapWithReanimatedMetroConfig(config);
-})();
+const defaultConfig = getDefaultConfig(__dirname);
+
+defaultConfig.resolver.extraNodeModules = {
+    // Alias the placeholder to the correct AssetRegistry module.
+    'missing-asset-registry-path': require.resolve('react-native/Libraries/Image/AssetRegistry'),
+};
+
+module.exports = wrapWithReanimatedMetroConfig(defaultConfig);

@@ -1,0 +1,3268 @@
+{
+  "data": [
+    {
+      "brand": "Babaton",
+      "currency": "USD",
+      "ean": "10000001792858",
+      "id": "115471",
+      "imageGroups": [
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_f.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_g.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_h.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_on_f.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_10252_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "10252"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1274"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1275_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1275"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s24_01_a08_115471_1846_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1846"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19049_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19049_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19049_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "19049"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_on_h.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_19773_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "19773"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_on_f.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_27400_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "27400"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_34412_off_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_34412_off_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_34412_off_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_a.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_b.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_c.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_d.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            },
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/large/s25_a08_115471_1274_on_e.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "34412"
+                }
+              ]
+            }
+          ],
+          "viewType": "large"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_27400_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_10252_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "10252"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_1274_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1274"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s24_01_a08_115471_1275_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1275"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s24_01_a08_115471_1846_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "1846"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_19049_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "19049"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_19773_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "19773"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_27400_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "27400"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        },
+        {
+          "images": [
+            {
+              "alt": "FLUID DRESS | Aritzia",
+              "link": "https://assets.aritzia.com/image/upload/swatch/s25_a08_115471_34412_sw.jpg",
+              "title": "FLUID DRESS | Aritzia"
+            }
+          ],
+          "variationAttributes": [
+            {
+              "id": "color",
+              "values": [
+                {
+                  "value": "34412"
+                }
+              ]
+            }
+          ],
+          "viewType": "swatch"
+        }
+      ],
+      "inventory": {
+        "backorderable": false,
+        "id": "ARITZIA_US_OCI",
+        "orderable": true,
+        "preorderable": false
+      },
+      "master": {
+        "masterId": "115471",
+        "orderable": true,
+        "price": 128
+      },
+      "minOrderQuantity": 1,
+      "name": "FLUID DRESS",
+      "price": 128,
+      "pricePerUnit": 128,
+      "priceRanges": [
+        {
+          "maxPrice": 128,
+          "minPrice": 128,
+          "pricebook": "usd-list-prices"
+        }
+      ],
+      "primaryCategoryId": "dresses",
+      "shortDescription": "Defies categorization",
+      "slugUrl": "https://www.aritzia.com/us/en/product/fluid-dress/115471.html",
+      "stepQuantity": 1,
+      "type": {
+        "master": true
+      },
+      "unit": "EA",
+      "upc": "10000001792858",
+      "variants": [
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471001",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471002",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471003",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471004",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471005",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471006",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1275",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471007",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471008",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471009",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471010",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471011",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471012",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1274",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471013",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471014",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471015",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471016",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471017",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 50.99,
+          "productId": "115471018",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            },
+            {
+              "price": 50.99,
+              "pricebook": "usd-sale-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "1846",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471019",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471020",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471021",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471022",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471023",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471024",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "34412",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471025",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471026",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471027",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471028",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471029",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471030",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "10252",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471031",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 128,
+          "productId": "115471032",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471033",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471034",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471035",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": false,
+          "price": 128,
+          "productId": "115471036",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19049",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471037",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471038",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "55"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471039",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471040",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471041",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471042",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "27400",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471043",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "14"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471044",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "138"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471045",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "3"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471046",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "4"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471047",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "5"
+          }
+        },
+        {
+          "name": "FLUID DRESS",
+          "orderable": true,
+          "price": 128,
+          "productId": "115471048",
+          "tieredPrices": [
+            {
+              "price": 128,
+              "pricebook": "usd-list-prices",
+              "quantity": 1
+            }
+          ],
+          "variationValues": {
+            "color": "19773",
+            "size": "55"
+          }
+        }
+      ],
+      "variationAttributes": [
+        {
+          "id": "color",
+          "name": "Colour",
+          "values": [
+            {
+              "name": "BLACK",
+              "orderable": true,
+              "value": "1274"
+            },
+            {
+              "name": "GLIMMER",
+              "orderable": true,
+              "value": "10252"
+            },
+            {
+              "name": "LIGHT BIRCH/BLACK",
+              "orderable": true,
+              "value": "27400"
+            },
+            {
+              "name": "CHERRY RED",
+              "orderable": true,
+              "value": "19773"
+            },
+            {
+              "name": "TERRACE SG /WHITE",
+              "orderable": true,
+              "value": "34412"
+            },
+            {
+              "name": "TURNER TAUPE",
+              "orderable": true,
+              "value": "19049"
+            },
+            {
+              "name": "WHITE",
+              "orderable": false,
+              "value": "1275"
+            },
+            {
+              "name": "WHITE/BLACK",
+              "orderable": false,
+              "value": "1846"
+            }
+          ]
+        },
+        {
+          "id": "size",
+          "name": "Size",
+          "values": [
+            {
+              "name": "M",
+              "orderable": true,
+              "value": "4"
+            },
+            {
+              "name": "S",
+              "orderable": true,
+              "value": "3"
+            },
+            {
+              "name": "XS",
+              "orderable": true,
+              "value": "14"
+            },
+            {
+              "name": "2XS",
+              "orderable": true,
+              "value": "138"
+            },
+            {
+              "name": "L",
+              "orderable": true,
+              "value": "5"
+            },
+            {
+              "name": "XL",
+              "orderable": true,
+              "value": "55"
+            }
+          ]
+        }
+      ],
+      "variationGroups": [
+        {
+          "orderable": false,
+          "position": 6,
+          "productId": "115471-1275",
+          "variationValues": {
+            "color": "1275"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 0,
+          "productId": "115471-1274",
+          "variationValues": {
+            "color": "1274"
+          }
+        },
+        {
+          "orderable": false,
+          "position": 7,
+          "productId": "115471-1846",
+          "variationValues": {
+            "color": "1846"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 4,
+          "productId": "115471-34412",
+          "variationValues": {
+            "color": "34412"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 1,
+          "productId": "115471-10252",
+          "variationValues": {
+            "color": "10252"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 5,
+          "productId": "115471-19049",
+          "variationValues": {
+            "color": "19049"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 2,
+          "productId": "115471-27400",
+          "variationValues": {
+            "color": "27400"
+          }
+        },
+        {
+          "orderable": true,
+          "position": 3,
+          "productId": "115471-19773",
+          "variationValues": {
+            "color": "19773"
+          }
+        }
+      ],
+      "c_articleCategory": "01",
+      "c_articleFit": [
+        "Tight"
+      ],
+      "c_articleGeneric": "115471",
+      "c_articleType": "MODE",
+      "c_buyingCode": "NR",
+      "c_buyingCodeID": 99,
+      "c_defaultColor": "19773",
+      "c_department": "08",
+      "c_division": "P",
+      "c_fabric": [
+        "Cotton Poplin"
+      ],
+      "c_fit": "Fit: Tight — A close fit that hugs the body",
+      "c_isBackIn": false,
+      "c_isMovingFast": false,
+      "c_isNew": false,
+      "c_isNewThisWeek": false,
+      "c_isSustainable": false,
+      "c_lastImageUpdate": "2025-03-10T10:00:00.000Z",
+      "c_length": [
+        "84"
+      ],
+      "c_merchandise": "A",
+      "c_merchandiseCategory": "AWA1P08",
+      "c_merchandiseDepartment": "A08",
+      "c_merchandiseGender": "W",
+      "c_merchandiseSource": "1",
+      "c_neckline": [
+        "Strapless"
+      ],
+      "c_percentageDiscount": 0,
+      "c_plmFeature": "Poplin",
+      "c_plmSilhouetteID": "44867",
+      "c_productLabel": "Poplin + Contour",
+      "c_publishDate": "2024-12-26T10:00:00.000Z",
+      "c_rise": [
+        "High Rise"
+      ],
+      "c_season": "S1",
+      "c_seasonYear": "2025",
+      "c_seoProductDesc": "Fit-and-flare cotton midi dress with Contour bodice",
+      "c_showMatchingProducts": false,
+      "c_showMatchingProductsWasEnriched": false,
+      "c_sleeve": [
+        "Sleeveless"
+      ],
+      "c_style": [
+        "Midi",
+        "Strapless"
+      ],
+      "c_styleName": "FLUID DRESS",
+      "c_styleNumber": "CRCP 01-08-44867-SU24",
+      "c_subDepartment": [
+        "Dress"
+      ],
+      "c_tabDescription": "This is a strapless fit-and-flare dress. The bodice is cut from Aritzia's Contour &mdash; luxe, ultra-flattering fabric coveted for its smoothing effect and second-skin feel. The skirt is cut from airy, 100% cotton poplin with a smooth, crisp feel.",
+      "c_tabDetails": "<ul><li>Content: 94% polyamide, 6% elastane; Lower Body: 100% cotton; Upper Body Lining: 94% polyamide, 6% elastane</li><li>Care: Machine wash</li><li>Imported</li></ul>",
+      "c_tabFeatures": "<ul><li>Lined</li><li>Double-layer bodice</li></ul>",
+      "c_tabSizeFit": [
+        "Length: Midi — Intended to hit between knee and low calf"
+      ],
+      "c_turntoAverageRating": 5,
+      "c_turntoCommentCount": 0,
+      "c_turntoRelatedReviewCount": 4,
+      "c_turntoReviewCount": 4,
+      "c_isBulkItem": false,
+      "c_variants": [
+        {
+          "id": "115471001",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471002",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size S",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size S",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471003",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XS",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XS",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471004",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size 2XS",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size 2XS",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471005",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471006",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XL",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XL",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471007",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471008",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471009",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471010",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471011",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471012",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Core",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471013",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XS",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XS",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471014",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size 2XS",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size 2XS",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471015",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XL",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size XL",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471016",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471017",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471018",
+          "isOnSale": true,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": false,
+          "c_disableStoreInventory": false,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'11\"/180cm",
+          "modelId": "797",
+          "modelSize": "S",
+          "c_buyingCode": "NRDC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size S",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size S",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471019",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471020",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471021",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471022",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471023",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471024",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471025",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471026",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471027",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471028",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471029",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471030",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471031",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471032",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size L",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471033",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 1,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "1 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "1 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471034",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 3,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "3 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "3 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471035",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 1,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "1 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "1 Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471036",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 0,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Sold Out Online",
+            "length": "",
+            "size": "Sold Out Online in Size M",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471037",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471038",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471039",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471040",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471041",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471042",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5' 8.5\"/173.99cm",
+          "modelId": "839",
+          "modelSize": "S",
+          "c_buyingCode": "NRCC",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471043",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471044",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471045",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471046",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471047",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        },
+        {
+          "id": "115471048",
+          "isOnSale": false,
+          "isReturnable": "true",
+          "c_articleGeneric": "115471",
+          "c_isBulkItem": false,
+          "c_disableStorePickUp": null,
+          "c_disableStoreInventory": null,
+          "c_maxOrderQuantity": 5,
+          "modelHeight": "5'10\"/177cm",
+          "modelId": "845",
+          "modelSize": "S",
+          "c_buyingCode": "NRCN",
+          "c_colorGroup": "Limited",
+          "c_productLabel": "Poplin + Contour",
+          "c_turntoAverageRating": 5,
+          "c_inventoryMessage": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_inventoryMessageLocalized": {
+            "generic": "Only a Few Left",
+            "length": "",
+            "size": "",
+            "callout": ""
+          },
+          "c_isSpecialOrder": false
+        }
+      ],
+      "c_brandCategoryId": "t-babaton",
+      "c_searchableIfUnavailable": false
+    }
+  ]
+}
