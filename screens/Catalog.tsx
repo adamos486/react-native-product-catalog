@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, {useState, useEffect} from 'react';
 import {
     StyleSheet,
     Text,
@@ -9,9 +9,9 @@ import {
     TouchableOpacity,
     SafeAreaView,
 } from 'react-native';
-import { Feather, AntDesign, SimpleLineIcons } from '@expo/vector-icons';
+import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
 
-export const Catalog = () => {
+export const Catalog = ({navigation}: { navigation: any }) => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
@@ -28,23 +28,24 @@ export const Catalog = () => {
         fetchData();
     }, []);
 
-    const renderProductItem = ({ item }: {item: any}) => (
+    const renderProductItem = ({item}: { item: any }) => (
         <View style={styles.productItem}>
             <Image
                 style={styles.productImage}
-                source={{ uri: item.imageGroups[0].images[0].link }} // Use the first image from the first image group
+                source={{uri: item.imageGroups[0].images[0].link}} // Use the first image from the first image group
             />
             <View style={styles.colorOptions}>
                 {item.imageGroups.filter((group: any) => group.variationAttributes && group.variationAttributes.length > 0).map((group: any, index: any) => (
-                    <View key={index} style={styles.colorCircle} />
+                    <View key={index} style={styles.colorCircle}/>
                 ))}
-                {item.imageGroups.length > 5 && <Text style={styles.additionalColors}>+{item.imageGroups.length - 5}</Text>}
+                {item.imageGroups.length > 5 &&
+                    <Text style={styles.additionalColors}>+{item.imageGroups.length - 5}</Text>}
             </View>
             <Text style={styles.brandName}>{item.brand}</Text>
             <Text style={styles.productName}>{item.name}</Text>
             <Text style={styles.productPrice}>${item.price} - ${item.priceMax}</Text>
             <Text style={styles.recentlyViewed}>RECENTLY VIEWED</Text>
-            <AntDesign name="hearto" size={24} color="black" style={styles.saveIcon} />
+            <AntDesign name="hearto" size={24} color="black" style={styles.saveIcon}/>
         </View>
     );
 
@@ -52,11 +53,12 @@ export const Catalog = () => {
         <SafeAreaView style={styles.container}>
             {/* Header */}
             <View style={styles.header}>
-                <Text style={styles.logo}>ARITZIA</Text>
+                <TouchableOpacity onPress={() => navigation.pop()}><Text
+                    style={styles.logo}>ARITZIA</Text></TouchableOpacity>
                 <View style={styles.headerIcons}>
-                    <Feather name="search" size={24} color="black" style={styles.headerIcon} />
-                    <SimpleLineIcons name="bag" size={24} color="black" style={styles.headerIcon} />
-                    <Feather name="menu" size={24} color="black" style={styles.headerIcon} />
+                    <Feather name="search" size={24} color="black" style={styles.headerIcon}/>
+                    <SimpleLineIcons name="bag" size={24} color="black" style={styles.headerIcon}/>
+                    <Feather name="menu" size={24} color="black" style={styles.headerIcon}/>
                 </View>
             </View>
 
