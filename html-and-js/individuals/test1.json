@@ -1,0 +1,1558 @@
+{
+  "results": [
+    {
+      "primaryCategoryId": null,
+      "categories": [
+        "game-day",
+        "giftedit-50100",
+        "college-outfits",
+        "trending-gifts",
+        "categorization-sweaters",
+        "sweat-shirts",
+        "sweatshirts",
+        "winter-outfits",
+        "fitted-sweaters",
+        "clothing",
+        "after-gym",
+        "sweatshirts-hoodies",
+        "perfect-fit",
+        "must-haves",
+        "work-from-home-outfits",
+        "easy-gift-ideas",
+        "transitional-dressing",
+        "two-piece-sets",
+        "sweatsuit-sets",
+        "gifts-for-yourself",
+        "womens-basics",
+        "loungewear",
+        "wardrobe-staples",
+        "color-drops"
+      ],
+      "catAttributes": {
+        "trending-gifts": {
+          "plpImg": "on_h",
+          "PLPImgHover": "on_h"
+        }
+      },
+      "activity": [],
+      "articleFit": [
+        "Perfect",
+        "Classic"
+      ],
+      "brand": "Aritzia",
+      "buyingCode": "COE",
+      "buyingCodeId": 2,
+      "color": "32511",
+      "distinctId": "116209",
+      "fabric": [
+        "Cozy Sweatfleece"
+      ],
+      "feature": [],
+      "isDefaultColor": false,
+      "length": [
+        "45"
+      ],
+      "masterId": "116209",
+      "name": "COZY SWEATFLEECE PERFECT HOODIE",
+      "occasion": [],
+      "onSale": false,
+      "orderable": true,
+      "price": {
+        "min": 80,
+        "max": 90,
+        "discount": 0
+      },
+      "productLabel": "",
+      "readyToShip": true,
+      "rating": 4.5,
+      "refinementColor": "Blue",
+      "rise": [],
+      "searchableIfUnavailable": false,
+      "seasonRank": 20250,
+      "selectableColors": [
+        {
+          "colorIds": {
+            "33037": [
+              "s25_a03_116209_33037_on_a",
+              "s25_a03_116209_33037_on_b",
+              "s25_a03_116209_33037_on_c",
+              "s25_a03_116209_33037_on_d",
+              "s25_a03_116209_33037_on_e",
+              "s25_a03_116209_33037_on_f",
+              "s25_a03_116209_33037_off_a",
+              "s25_a03_116209_33037_off_c",
+              "s25_a03_116209_33037_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "sizeRun": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "swatch": "s25_a03_116209_33037_sw",
+          "value": "FADED ADMIRAL"
+        },
+        {
+          "colorIds": {
+            "4425": [
+              "s25_a03_116209_4425_on_a",
+              "s25_a03_116209_4425_on_b",
+              "s25_a03_116209_4425_on_c",
+              "s25_a03_116209_4425_on_d",
+              "s25_a03_116209_4425_on_e",
+              "s25_a03_116209_4425_on_f",
+              "s25_a03_116209_4425_on_g",
+              "s25_a03_116209_4425_off_a",
+              "s25_a03_116209_4425_off_c",
+              "s25_a03_116209_4425_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [
+            "2XL",
+            "2XS",
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+          ],
+          "sizeRun": [
+            "2XL",
+            "2XS",
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+          ],
+          "swatch": "s25_a03_116209_4425_sw",
+          "value": "HEATHER CHROME"
+        },
+        {
+          "colorIds": {
+            "19451": [
+              "s25_a03_116209_19451_on_a",
+              "s25_a03_116209_19451_on_b",
+              "s25_a03_116209_19451_on_c",
+              "s25_a03_116209_19451_on_d",
+              "s25_a03_116209_19451_on_e",
+              "s25_a03_116209_19451_on_f",
+              "s25_a03_116209_19451_off_a",
+              "s25_a03_116209_19451_off_c",
+              "s25_a03_116209_19451_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [
+            "XS",
+            "2XS",
+            "2XL",
+            "XL",
+            "L",
+            "M",
+            "S"
+          ],
+          "sizeRun": [
+            "XS",
+            "2XS",
+            "2XL",
+            "XL",
+            "L",
+            "M",
+            "S"
+          ],
+          "swatch": "s25_a03_116209_19451_sw",
+          "value": "HEATHER CLOUD WHITE"
+        },
+        {
+          "colorIds": {
+            "1274": [
+              "s25_a03_116209_1274_on_a",
+              "s25_a03_116209_1274_on_b",
+              "s25_a03_116209_1274_on_c",
+              "s25_a03_116209_1274_on_d",
+              "s25_a03_116209_1274_on_e",
+              "s25_a03_116209_1274_on_f",
+              "s25_a03_116209_1274_on_g",
+              "s25_a03_116209_1274_off_a",
+              "s25_a03_116209_1274_off_c",
+              "s25_a03_116209_1274_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Black",
+          "shippableSizes": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "sizeRun": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ],
+          "swatch": "s25_a03_116209_1274_sw",
+          "value": "BLACK"
+        },
+        {
+          "colorIds": {
+            "1275": [
+              "s25_a03_116209_1275_on_a",
+              "s25_a03_116209_1275_on_b",
+              "s25_a03_116209_1275_on_c",
+              "s25_a03_116209_1275_on_d",
+              "s25_a03_116209_1275_on_e",
+              "s25_a03_116209_1275_on_f",
+              "s25_a03_116209_1275_off_a",
+              "s25_a03_116209_1275_off_c",
+              "s25_a03_116209_1275_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "White",
+          "shippableSizes": [
+            "S",
+            "2XL",
+            "XS",
+            "2XS",
+            "XL",
+            "L",
+            "M"
+          ],
+          "sizeRun": [
+            "S",
+            "2XL",
+            "XS",
+            "2XS",
+            "XL",
+            "L",
+            "M"
+          ],
+          "swatch": "s25_a03_116209_1275_sw",
+          "value": "WHITE"
+        },
+        {
+          "colorIds": {
+            "34010": [
+              "s25_a03_116209_34010_on_a",
+              "s25_a03_116209_34010_on_b",
+              "s25_a03_116209_34010_on_c",
+              "s25_a03_116209_34010_on_d",
+              "s25_a03_116209_34010_on_e",
+              "s25_a03_116209_34010_on_f",
+              "s25_a03_116209_34010_off_a",
+              "s25_a03_116209_34010_off_c",
+              "s25_a03_116209_34010_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Green",
+          "shippableSizes": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ],
+          "sizeRun": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ],
+          "swatch": "s25_a03_116209_34010_sw",
+          "value": "FADED COURT GREEN"
+        },
+        {
+          "colorIds": {
+            "19631": [
+              "s25_a03_116209_19631_on_a",
+              "s25_a03_116209_19631_on_b",
+              "s25_a03_116209_19631_on_c",
+              "s25_a03_116209_19631_on_d",
+              "s25_a03_116209_19631_on_e",
+              "s25_a03_116209_19631_on_f",
+              "s25_a03_116209_19631_on_g",
+              "s25_a03_116209_19631_off_a",
+              "s25_a03_116209_19631_off_c",
+              "s25_a03_116209_19631_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Beige",
+          "shippableSizes": [
+            "XS",
+            "XL",
+            "M",
+            "S"
+          ],
+          "sizeRun": [
+            "XS",
+            "XL",
+            "L",
+            "M",
+            "S",
+            "2XS"
+          ],
+          "swatch": "s25_a03_116209_19631_sw",
+          "value": "HEATHER LIGHT OATMEA"
+        },
+        {
+          "colorIds": {
+            "23291": [
+              "s25_a03_116209_23291_on_a",
+              "s25_a03_116209_23291_on_b",
+              "s25_a03_116209_23291_on_c",
+              "s25_a03_116209_23291_on_d",
+              "s25_a03_116209_23291_on_e",
+              "s25_a03_116209_23291_off_a",
+              "s25_a03_116209_23291_off_c",
+              "s25_a03_116209_23291_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Black",
+          "shippableSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XS",
+            "XS"
+          ],
+          "sizeRun": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XS",
+            "XS"
+          ],
+          "swatch": "s25_a03_116209_23291_sw",
+          "value": "FADED BLACK"
+        },
+        {
+          "colorIds": {
+            "32509": [
+              "s25_a03_125921_32509_on_a",
+              "s25_a03_125921_32509_on_b",
+              "s25_a03_125921_32509_on_c",
+              "s25_a03_125921_32509_on_d",
+              "s25_a03_125921_32509_on_e",
+              "s25_a03_125921_32509_on_f",
+              "s25_a03_125921_32509_off_a",
+              "s25_a03_125921_32509_off_c",
+              "s25_a03_125921_32509_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                90
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "L",
+            "2XS",
+            "XS",
+            "M",
+            "S",
+            "2XL",
+            "XL"
+          ],
+          "sizeRun": [
+            "L",
+            "2XS",
+            "XS",
+            "M",
+            "S",
+            "2XL",
+            "XL"
+          ],
+          "swatch": "s25_a03_125921_32509_sw",
+          "value": "NO-STRESS BEACH BLUE"
+        },
+        {
+          "colorIds": {
+            "11087": [
+              "s25_a03_116209_11087_on_a",
+              "s25_a03_116209_11087_on_b",
+              "s25_a03_116209_11087_on_c",
+              "s25_a03_116209_11087_on_d",
+              "s25_a03_116209_11087_on_e",
+              "s25_a03_116209_11087_on_f",
+              "s25_a03_116209_11087_off_a",
+              "s25_a03_116209_11087_off_c",
+              "s25_a03_116209_11087_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "sizeRun": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "swatch": "s25_a03_116209_11087_sw",
+          "value": "HEATHER ADMIRAL"
+        },
+        {
+          "colorIds": {
+            "32510": [
+              "s25_a03_125922_32510_on_a",
+              "s25_a03_125922_32510_on_b",
+              "s25_a03_125922_32510_on_c",
+              "s25_a03_125922_32510_on_d",
+              "s25_a03_125922_32510_on_e",
+              "s25_a03_125922_32510_on_f",
+              "s25_a03_125922_32510_off_a",
+              "s25_a03_125922_32510_off_c",
+              "s25_a03_125922_32510_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                90
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XS"
+          ],
+          "sizeRun": [
+            "XS",
+            "2XL",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XS"
+          ],
+          "swatch": "s25_a03_125922_32510_sw",
+          "value": "NO-STRESS LIGHT BLUE"
+        },
+        {
+          "colorIds": {
+            "32512": [
+              "s25_a03_124584_32512_on_a",
+              "s25_a03_124584_32512_on_b",
+              "s25_a03_124584_32512_on_c",
+              "s25_a03_124584_32512_on_d",
+              "s25_a03_124584_32512_on_e",
+              "s25_a03_124584_32512_off_a",
+              "s25_a03_124584_32512_off_c",
+              "s25_a03_124584_32512_off_e"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                90
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "sizeRun": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "swatch": "s25_a03_124584_32512_sw",
+          "value": "NO-STRESS DARK BLUE"
+        },
+        {
+          "colorIds": {
+            "32511": [
+              "s25_a03_125923_32511_on_a",
+              "s25_a03_125923_32511_on_b",
+              "s25_a03_125923_32511_on_c",
+              "s25_a03_125923_32511_on_d",
+              "s25_a03_125923_32511_on_e",
+              "s25_a03_125923_32511_on_f",
+              "s25_a03_125923_32511_on_g",
+              "s25_a03_125923_32511_on_h",
+              "s25_a03_125923_32511_off_a",
+              "s25_a03_125923_32511_off_c",
+              "s25_a03_125923_32511_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                90
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [
+            "2XS",
+            "L",
+            "XL",
+            "M",
+            "S",
+            "XS"
+          ],
+          "sizeRun": [
+            "2XS",
+            "L",
+            "XL",
+            "M",
+            "S",
+            "XS"
+          ],
+          "swatch": "s25_a03_125923_32511_sw",
+          "value": "NO-STRESS MEDIUM BLU"
+        },
+        {
+          "colorIds": {
+            "34005": [
+              "s25_a03_116209_34005_on_a",
+              "s25_a03_116209_34005_on_b",
+              "s25_a03_116209_34005_on_c",
+              "s25_a03_116209_34005_on_d",
+              "s25_a03_116209_34005_on_e",
+              "s25_a03_116209_34005_on_f",
+              "s25_a03_116209_34005_off_a",
+              "s25_a03_116209_34005_off_c",
+              "s25_a03_116209_34005_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "White",
+          "shippableSizes": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "sizeRun": [
+            "2XS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "swatch": "s25_a03_116209_34005_sw",
+          "value": "FADED MATTE PEARL"
+        },
+        {
+          "colorIds": {
+            "10814": [
+              "s25_a03_116209_10814_on_a",
+              "s25_a03_116209_10814_on_b",
+              "s25_a03_116209_10814_on_c",
+              "s25_a03_116209_10814_on_d",
+              "s25_a03_116209_10814_on_e",
+              "s25_a03_116209_10814_on_f",
+              "s25_a03_116209_10814_off_a",
+              "s25_a03_116209_10814_off_b",
+              "s25_a03_116209_10814_off_c",
+              "s25_a03_116209_10814_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Green",
+          "shippableSizes": [
+            "XS",
+            "2XS",
+            "M",
+            "S"
+          ],
+          "sizeRun": [
+            "XS",
+            "2XS",
+            "L",
+            "M",
+            "S"
+          ],
+          "swatch": "s25_a03_116209_10814_sw",
+          "value": "SCARAB"
+        },
+        {
+          "colorIds": {
+            "19773": [
+              "s25_a03_116209_19773_on_a",
+              "s25_a03_116209_19773_on_b",
+              "s25_a03_116209_19773_on_c",
+              "s25_a03_116209_19773_on_d",
+              "s25_a03_116209_19773_on_e",
+              "s25_a03_116209_19773_on_f",
+              "s25_a03_116209_19773_on_g",
+              "s25_a03_116209_19773_on_h",
+              "s25_a03_116209_19773_off_a",
+              "s25_a03_116209_19773_off_c",
+              "s25_a03_116209_19773_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Red",
+          "shippableSizes": [
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "sizeRun": [
+            "M",
+            "L",
+            "S",
+            "XS",
+            "XL",
+            "2XS"
+          ],
+          "swatch": "s25_a03_116209_19773_sw",
+          "value": "CHERRY RED"
+        },
+        {
+          "colorIds": {
+            "19049": [
+              "s25_a03_116209_19049_on_a",
+              "s25_a03_116209_19049_on_b",
+              "s25_a03_116209_19049_on_c",
+              "s25_a03_116209_19049_on_d",
+              "s25_a03_116209_19049_on_e",
+              "s25_a03_116209_19049_off_a",
+              "s25_a03_116209_19049_off_c",
+              "s25_a03_116209_19049_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Brown",
+          "shippableSizes": [
+            "M",
+            "S",
+            "XS",
+            "2XS",
+            "L",
+            "XL"
+          ],
+          "sizeRun": [
+            "M",
+            "S",
+            "XS",
+            "2XS",
+            "L",
+            "XL"
+          ],
+          "swatch": "s25_a03_116209_19049_sw",
+          "value": "TURNER TAUPE"
+        },
+        {
+          "colorIds": {
+            "33951": [
+              "s25_a03_116209_33951_on_a",
+              "s25_a03_116209_33951_on_b",
+              "s25_a03_116209_33951_on_c",
+              "s25_a03_116209_33951_on_d",
+              "s25_a03_116209_33951_on_e",
+              "s25_a03_116209_33951_on_f",
+              "s25_a03_116209_33951_off_a",
+              "s25_a03_116209_33951_off_c",
+              "s25_a03_116209_33951_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Pink",
+          "shippableSizes": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "sizeRun": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS",
+            "2XS"
+          ],
+          "swatch": "s25_a03_116209_33951_sw",
+          "value": "TART PINK"
+        },
+        {
+          "colorIds": {
+            "2819": [
+              "s25_a03_116209_2819_on_a",
+              "s25_a03_116209_2819_on_b",
+              "s25_a03_116209_2819_on_c",
+              "s25_a03_116209_2819_on_d",
+              "s25_a03_116209_2819_on_e",
+              "s25_a03_116209_2819_on_f",
+              "s25_a03_116209_2819_off_a",
+              "s25_a03_116209_2819_off_c",
+              "s25_a03_116209_2819_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Green",
+          "shippableSizes": [
+            "2XS",
+            "S",
+            "XS"
+          ],
+          "sizeRun": [
+            "2XS",
+            "S",
+            "XS"
+          ],
+          "swatch": "s25_a03_116209_2819_sw",
+          "value": "DARK OLIVE"
+        },
+        {
+          "colorIds": {
+            "34008": [
+              "s25_a03_116209_34008_on_a",
+              "s25_a03_116209_34008_on_b",
+              "s25_a03_116209_34008_on_c",
+              "s25_a03_116209_34008_on_d",
+              "s25_a03_116209_34008_on_e",
+              "s25_a03_116209_34008_off_a",
+              "s25_a03_116209_34008_off_c",
+              "s25_a03_116209_34008_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Pink",
+          "shippableSizes": [],
+          "sizeRun": [
+            "M",
+            "XS"
+          ],
+          "swatch": "s25_a03_116209_34008_sw",
+          "value": "FADED OPERA ROSE"
+        },
+        {
+          "colorIds": {
+            "6046": [
+              "f24_a03_116209_6046_on_a",
+              "f24_a03_116209_6046_on_b",
+              "f24_a03_116209_6046_on_c",
+              "f24_a03_116209_6046_on_d",
+              "f24_a03_116209_6046_on_e",
+              "f24_a03_116209_6046_on_f",
+              "f24_a03_116209_6046_off_a",
+              "f24_a03_116209_6046_off_c",
+              "f24_a03_116209_6046_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [],
+          "sizeRun": [
+            "2XS"
+          ],
+          "swatch": "f24_a03_116209_6046_sw",
+          "value": "HEATHER CHARCOAL"
+        },
+        {
+          "colorIds": {
+            "33528": [
+              "f24_a03_116209_33528_on_a",
+              "f24_a03_116209_33528_on_b",
+              "f24_a03_116209_33528_on_c",
+              "f24_a03_116209_33528_on_d",
+              "f24_a03_116209_33528_on_e",
+              "f24_a03_116209_33528_on_f",
+              "f24_a03_116209_33528_off_a",
+              "f24_a03_116209_33528_off_c",
+              "f24_a03_116209_33528_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_33528_sw",
+          "value": "TOURMALINE TEAL"
+        },
+        {
+          "colorIds": {
+            "33506": [
+              "f24_a03_116209_33506_on_a",
+              "f24_a03_116209_33506_on_b",
+              "f24_a03_116209_33506_on_c",
+              "f24_a03_116209_33506_on_d",
+              "f24_a03_116209_33506_on_e",
+              "f24_a03_116209_33506_on_f",
+              "f24_a03_116209_33506_on_g",
+              "f24_a03_116209_33506_off_a",
+              "f24_a03_116209_33506_off_c",
+              "f24_a03_116209_33506_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Green",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_33506_sw",
+          "value": "STONEPINE GREEN"
+        },
+        {
+          "colorIds": {
+            "33680": [
+              "f24_a03_116209_33680_on_a",
+              "f24_a03_116209_33680_on_b",
+              "f24_a03_116209_33680_on_c",
+              "f24_a03_116209_33680_on_d",
+              "f24_a03_116209_33680_on_e",
+              "f24_a03_116209_33680_on_f",
+              "f24_a03_116209_33680_off_a",
+              "f24_a03_116209_33680_off_c",
+              "f24_a03_116209_33680_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Purple",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_33680_sw",
+          "value": "FADED SMOKED EGGPLAN"
+        },
+        {
+          "colorIds": {
+            "33036": [
+              "f24_a03_116209_33036_on_a",
+              "f24_a03_116209_33036_on_b",
+              "f24_a03_116209_33036_on_c",
+              "f24_a03_116209_33036_on_d",
+              "f24_a03_116209_33036_on_e",
+              "f24_a03_116209_33036_on_f",
+              "f24_a03_116209_33036_off_a",
+              "f24_a03_116209_33036_off_c",
+              "f24_a03_116209_33036_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_33036_sw",
+          "value": "FADED COAL GREY"
+        },
+        {
+          "colorIds": {
+            "11884": [
+              "f24_a03_116209_11884_on_a",
+              "f24_a03_116209_11884_on_b",
+              "f24_a03_116209_11884_on_c",
+              "f24_a03_116209_11884_on_d",
+              "f24_a03_116209_11884_on_e",
+              "f24_a03_116209_11884_off_a",
+              "f24_a03_116209_11884_off_c",
+              "f24_a03_116209_11884_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Pink",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_11884_sw",
+          "value": "CLAREMONT"
+        },
+        {
+          "colorIds": {
+            "9460": [
+              "f24_a03_116209_9460_on_a",
+              "f24_a03_116209_9460_on_b",
+              "f24_a03_116209_9460_on_c",
+              "f24_a03_116209_9460_on_d",
+              "f24_a03_116209_9460_on_e",
+              "f24_a03_116209_9460_off_a",
+              "f24_a03_116209_9460_off_c",
+              "f24_a03_116209_9460_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_9460_sw",
+          "value": "CELESTIAL BLUE"
+        },
+        {
+          "colorIds": {
+            "33869": [
+              "f24_a03_116209_33869_on_a",
+              "f24_a03_116209_33869_on_b",
+              "f24_a03_116209_33869_on_c",
+              "f24_a03_116209_33869_on_d",
+              "f24_a03_116209_33869_on_e",
+              "f24_a03_116209_33869_on_f",
+              "f24_a03_116209_33869_on_g",
+              "f24_a03_116209_33869_off_a",
+              "f24_a03_116209_33869_off_c",
+              "f24_a03_116209_33869_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            }
+          ],
+          "refColor": "Pink",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_33869_sw",
+          "value": "BERRY PINK"
+        },
+        {
+          "colorIds": {
+            "34245": [
+              "f24_a03_116209_34245_on_a",
+              "f24_a03_116209_34245_on_b",
+              "f24_a03_116209_34245_on_c",
+              "f24_a03_116209_34245_on_d",
+              "f24_a03_116209_34245_on_e",
+              "f24_a03_116209_34245_on_f",
+              "f24_a03_116209_34245_off_a",
+              "f24_a03_116209_34245_off_c",
+              "f24_a03_116209_34245_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_34245_sw",
+          "value": "FADED ECHO GREY"
+        },
+        {
+          "colorIds": {
+            "11420": [
+              "s24_99_a03_116209_11420_on_a",
+              "s24_99_a03_116209_11420_on_b",
+              "s24_99_a03_116209_11420_on_c",
+              "s24_99_a03_116209_11420_on_d",
+              "s24_99_a03_116209_11420_on_e",
+              "s24_99_a03_116209_11420_on_f",
+              "s24_99_a03_116209_11420_on_h",
+              "s24_99_a03_116209_11420_off_a",
+              "s24_99_a03_116209_11420_off_c",
+              "s24_99_a03_116209_11420_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "White",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "s24_99_a03_116209_11420_sw",
+          "value": "LIGHT BIRCH"
+        },
+        {
+          "colorIds": {
+            "30654": [
+              "f24_a03_116209_30654_on_a",
+              "f24_a03_116209_30654_on_b",
+              "f24_a03_116209_30654_on_c",
+              "f24_a03_116209_30654_on_d",
+              "f24_a03_116209_30654_on_e",
+              "f24_a03_116209_30654_on_f",
+              "f24_a03_116209_30654_off_a",
+              "f24_a03_116209_30654_off_c",
+              "f24_a03_116209_30654_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Grey",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_30654_sw",
+          "value": "NOMAD TAUPE"
+        },
+        {
+          "colorIds": {
+            "11163": [
+              "f24_a03_116209_11163_on_a",
+              "f24_a03_116209_11163_on_b",
+              "f24_a03_116209_11163_on_c",
+              "f24_a03_116209_11163_on_d",
+              "f24_a03_116209_11163_on_e",
+              "f24_a03_116209_11163_on_f",
+              "f24_a03_116209_11163_off_a",
+              "f24_a03_116209_11163_off_c",
+              "f24_a03_116209_11163_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Purple",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_11163_sw",
+          "value": "NOBLE"
+        },
+        {
+          "colorIds": {
+            "15104": [
+              "f24_a03_116209_15104_on_a",
+              "f24_a03_116209_15104_on_b",
+              "f24_a03_116209_15104_on_c",
+              "f24_a03_116209_15104_on_d",
+              "f24_a03_116209_15104_on_e",
+              "f24_a03_116209_15104_off_a",
+              "f24_a03_116209_15104_off_c",
+              "f24_a03_116209_15104_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "White",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_15104_sw",
+          "value": "MATTE PEARL"
+        },
+        {
+          "colorIds": {
+            "32942": [
+              "f24_a03_116209_32942_on_a",
+              "f24_a03_116209_32942_on_b",
+              "f24_a03_116209_32942_on_c",
+              "f24_a03_116209_32942_on_d",
+              "f24_a03_116209_32942_on_e",
+              "f24_a03_116209_32942_on_f",
+              "f24_a03_116209_32942_off_a",
+              "f24_a03_116209_32942_off_c",
+              "f24_a03_116209_32942_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Pink",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_32942_sw",
+          "value": "BOW PINK"
+        },
+        {
+          "colorIds": {
+            "32772": [
+              "f24_a03_116209_32772_on_a",
+              "f24_a03_116209_32772_on_b",
+              "f24_a03_116209_32772_on_c",
+              "f24_a03_116209_32772_on_d",
+              "f24_a03_116209_32772_on_e",
+              "f24_a03_116209_32772_on_f",
+              "f24_a03_116209_32772_off_a",
+              "f24_a03_116209_32772_off_c",
+              "f24_a03_116209_32772_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_32772_sw",
+          "value": "NIGHTSHADE BLUE"
+        },
+        {
+          "colorIds": {
+            "32774": [
+              "f24_a03_116209_32774_on_a",
+              "f24_a03_116209_32774_on_b",
+              "f24_a03_116209_32774_on_c",
+              "f24_a03_116209_32774_on_d",
+              "f24_a03_116209_32774_on_e",
+              "f24_a03_116209_32774_on_f",
+              "f24_a03_116209_32774_off_a",
+              "f24_a03_116209_32774_off_c",
+              "f24_a03_116209_32774_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Green",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_32774_sw",
+          "value": "SMOKY SAGE"
+        },
+        {
+          "colorIds": {
+            "32994": [
+              "f24_a03_116209_32994_on_a",
+              "f24_a03_116209_32994_on_b",
+              "f24_a03_116209_32994_on_c",
+              "f24_a03_116209_32994_on_d",
+              "f24_a03_116209_32994_on_e",
+              "f24_a03_116209_32994_on_f",
+              "f24_a03_116209_32994_on_g",
+              "f24_a03_116209_32994_off_a",
+              "f24_a03_116209_32994_off_c",
+              "f24_a03_116209_32994_off_d"
+            ]
+          },
+          "onSale": false,
+          "prices": [
+            {
+              "prices": [
+                80
+              ],
+              "source": "usd-list-prices"
+            },
+            {
+              "prices": [
+                39.99
+              ],
+              "source": "usd-sale-prices"
+            }
+          ],
+          "refColor": "Blue",
+          "shippableSizes": [],
+          "sizeRun": [],
+          "swatch": "f24_a03_116209_32994_sw",
+          "value": "FADED CLADN BLUE"
+        }
+      ],
+      "shippableSizes": [
+        "2XS",
+        "L",
+        "XL",
+        "M",
+        "S",
+        "XS"
+      ],
+      "sizeRun": [
+        "2XS",
+        "L",
+        "XL",
+        "M",
+        "S",
+        "XS"
+      ],
+      "sleeve": [
+        "Longsleeve"
+      ],
+      "slug": "cozy-sweatfleece-perfect-hoodie/116209.html",
+      "stitching": [],
+      "storeAvailability": {},
+      "stretch": [],
+      "style": [
+        "Hip",
+        "Hoodie"
+      ],
+      "subDept": [
+        "Sweatshirt"
+      ],
+      "sustainability": [],
+      "trend": [],
+      "warmth": [],
+      "wash": [],
+      "seoProductDesc": "Classic fan-favourite fleece pullover hoodie",
+      "unsellable": 1,
+      "trueColor": "NO-STRESS MEDIUM BLU",
+      "vgDiscountGroup": "Aritzia",
+      "defaultImage": "s25_a03_116209_33037_on_a",
+      "_tags": [
+        "is_not_duplicate",
+        "id:116209-32511"
+      ],
+      "objectID": "116209-32511"
+    }
+  ]
+}

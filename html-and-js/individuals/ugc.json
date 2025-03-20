@@ -1,0 +1,1037 @@
+[
+  {
+    "sku": "116209",
+    "questions": 0,
+    "relatedQuestions": 0,
+    "comments": 0,
+    "answers": 0,
+    "relatedAnswers": 0,
+    "reviews": 1096,
+    "averageRating": 4.5,
+    "ratingBreakdown": {
+      "1": 41,
+      "2": 40,
+      "3": 69,
+      "4": 132,
+      "5": 814
+    },
+    "dimensions": [
+      {
+        "id": 1,
+        "sortOrder": 1,
+        "label": "How Does it Fit?",
+        "type": 2,
+        "required": true,
+        "average": 1.66,
+        "values": [
+          {
+            "id": 1,
+            "code": "dfsm",
+            "sortOrder": 0,
+            "label": "Smaller"
+          },
+          {
+            "id": 2,
+            "code": "dfssm",
+            "sortOrder": 1,
+            "label": "Slightly Smaller"
+          },
+          {
+            "id": 3,
+            "code": "dftts",
+            "sortOrder": 2,
+            "label": "True to Size"
+          },
+          {
+            "id": 4,
+            "code": "dfslg",
+            "sortOrder": 3,
+            "label": "Slightly Larger"
+          },
+          {
+            "id": 5,
+            "code": "dflg",
+            "sortOrder": 4,
+            "label": "Larger"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "sortOrder": 8,
+        "label": "What Size Did You Order?",
+        "type": 3,
+        "required": false,
+        "average": null,
+        "values": [
+          {
+            "id": 63,
+            "code": "td3xs",
+            "sortOrder": 0,
+            "label": "3XS",
+            "count": 0
+          },
+          {
+            "id": 64,
+            "code": "tdxxs",
+            "sortOrder": 1,
+            "label": "2XS",
+            "count": 0
+          },
+          {
+            "id": 65,
+            "code": "tdxs",
+            "sortOrder": 2,
+            "label": "XS",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "code": "tds",
+            "sortOrder": 3,
+            "label": "S",
+            "count": 3
+          },
+          {
+            "id": 67,
+            "code": "tdm",
+            "sortOrder": 4,
+            "label": "M",
+            "count": 3
+          },
+          {
+            "id": 68,
+            "code": "tdl",
+            "sortOrder": 5,
+            "label": "L",
+            "count": 3
+          },
+          {
+            "id": 69,
+            "code": "tdxl",
+            "sortOrder": 6,
+            "label": "XL",
+            "count": 1
+          },
+          {
+            "id": 70,
+            "code": "td2xl",
+            "sortOrder": 7,
+            "label": "2XL",
+            "count": 0
+          },
+          {
+            "id": 71,
+            "code": "td3xl",
+            "sortOrder": 8,
+            "label": "3XL",
+            "count": 0
+          },
+          {
+            "id": 72,
+            "code": "tdw23",
+            "sortOrder": 9,
+            "label": "23",
+            "count": 0
+          },
+          {
+            "id": 73,
+            "code": "tdw24",
+            "sortOrder": 10,
+            "label": "24",
+            "count": 0
+          },
+          {
+            "id": 74,
+            "code": "tdw25",
+            "sortOrder": 11,
+            "label": "25",
+            "count": 0
+          },
+          {
+            "id": 75,
+            "code": "tdw26",
+            "sortOrder": 12,
+            "label": "26",
+            "count": 0
+          },
+          {
+            "id": 76,
+            "code": "tdw27",
+            "sortOrder": 13,
+            "label": "27",
+            "count": 0
+          },
+          {
+            "id": 77,
+            "code": "tdw28",
+            "sortOrder": 14,
+            "label": "28",
+            "count": 0
+          },
+          {
+            "id": 78,
+            "code": "tdw29",
+            "sortOrder": 15,
+            "label": "29",
+            "count": 1
+          },
+          {
+            "id": 79,
+            "code": "tdw30",
+            "sortOrder": 16,
+            "label": "30",
+            "count": 0
+          },
+          {
+            "id": 80,
+            "code": "tdw31",
+            "sortOrder": 17,
+            "label": "31",
+            "count": 0
+          },
+          {
+            "id": 81,
+            "code": "tdw32",
+            "sortOrder": 18,
+            "label": "32",
+            "count": 0
+          },
+          {
+            "id": 82,
+            "code": "tdw33",
+            "sortOrder": 19,
+            "label": "33",
+            "count": 0
+          },
+          {
+            "id": 83,
+            "code": "tdn00",
+            "sortOrder": 20,
+            "label": "00",
+            "count": 0
+          },
+          {
+            "id": 84,
+            "code": "tdn0",
+            "sortOrder": 21,
+            "label": "0",
+            "count": 0
+          },
+          {
+            "id": 85,
+            "code": "tdn2",
+            "sortOrder": 22,
+            "label": "2",
+            "count": 0
+          },
+          {
+            "id": 86,
+            "code": "tdn4",
+            "sortOrder": 23,
+            "label": "4",
+            "count": 0
+          },
+          {
+            "id": 87,
+            "code": "tdn6",
+            "sortOrder": 24,
+            "label": "6",
+            "count": 0
+          },
+          {
+            "id": 88,
+            "code": "tdn8",
+            "sortOrder": 25,
+            "label": "8",
+            "count": 0
+          },
+          {
+            "id": 89,
+            "code": "tdn10",
+            "sortOrder": 26,
+            "label": "10",
+            "count": 0
+          },
+          {
+            "id": 90,
+            "code": "tdn12",
+            "sortOrder": 27,
+            "label": "12",
+            "count": 0
+          },
+          {
+            "id": 91,
+            "code": "tf35",
+            "sortOrder": 28,
+            "label": "3.5",
+            "count": 0
+          },
+          {
+            "id": 92,
+            "code": "tf40",
+            "sortOrder": 29,
+            "label": "4",
+            "count": 0
+          },
+          {
+            "id": 93,
+            "code": "tf45",
+            "sortOrder": 30,
+            "label": "4.5",
+            "count": 0
+          },
+          {
+            "id": 94,
+            "code": "tf50",
+            "sortOrder": 31,
+            "label": "5",
+            "count": 0
+          },
+          {
+            "id": 95,
+            "code": "tf55",
+            "sortOrder": 32,
+            "label": "5.5",
+            "count": 0
+          },
+          {
+            "id": 96,
+            "code": "tf60",
+            "sortOrder": 33,
+            "label": "6",
+            "count": 0
+          },
+          {
+            "id": 97,
+            "code": "tf65",
+            "sortOrder": 34,
+            "label": "6.5",
+            "count": 0
+          },
+          {
+            "id": 98,
+            "code": "tf70",
+            "sortOrder": 35,
+            "label": "7",
+            "count": 0
+          },
+          {
+            "id": 99,
+            "code": "tf75",
+            "sortOrder": 36,
+            "label": "7.5",
+            "count": 0
+          },
+          {
+            "id": 100,
+            "code": "tf80",
+            "sortOrder": 37,
+            "label": "8",
+            "count": 0
+          },
+          {
+            "id": 101,
+            "code": "tf85",
+            "sortOrder": 38,
+            "label": "8.5",
+            "count": 0
+          },
+          {
+            "id": 102,
+            "code": "tf90",
+            "sortOrder": 39,
+            "label": "9",
+            "count": 0
+          },
+          {
+            "id": 103,
+            "code": "tf95",
+            "sortOrder": 40,
+            "label": "9.5",
+            "count": 0
+          },
+          {
+            "id": 104,
+            "code": "tf10",
+            "sortOrder": 41,
+            "label": "10",
+            "count": 0
+          },
+          {
+            "id": 105,
+            "code": "tf15",
+            "sortOrder": 42,
+            "label": "10.5",
+            "count": 0
+          },
+          {
+            "id": 106,
+            "code": "tf11",
+            "sortOrder": 43,
+            "label": "11",
+            "count": 0
+          },
+          {
+            "id": 107,
+            "code": "tdos1",
+            "sortOrder": 44,
+            "label": "1",
+            "count": 0
+          },
+          {
+            "id": 108,
+            "code": "tdos2",
+            "sortOrder": 45,
+            "label": "2",
+            "count": 0
+          },
+          {
+            "id": 109,
+            "code": "tdos3",
+            "sortOrder": 46,
+            "label": "3",
+            "count": 0
+          },
+          {
+            "id": 110,
+            "code": "tdos",
+            "sortOrder": 47,
+            "label": "OS",
+            "count": 0
+          },
+          {
+            "id": 111,
+            "code": "tf115",
+            "sortOrder": 48,
+            "label": "11.5",
+            "count": 0
+          },
+          {
+            "id": 112,
+            "code": "tf12",
+            "sortOrder": 49,
+            "label": "12",
+            "count": 0
+          },
+          {
+            "id": 113,
+            "code": "tf125",
+            "sortOrder": 50,
+            "label": "12.5",
+            "count": 0
+          },
+          {
+            "id": 114,
+            "code": "tf13",
+            "sortOrder": 51,
+            "label": "13",
+            "count": 0
+          },
+          {
+            "id": 115,
+            "code": "tdn14",
+            "sortOrder": 52,
+            "label": "14",
+            "count": 0
+          },
+          {
+            "id": 116,
+            "code": "tdn16",
+            "sortOrder": 53,
+            "label": "16",
+            "count": 0
+          },
+          {
+            "id": 117,
+            "code": "tdxss",
+            "sortOrder": 54,
+            "label": "XS/S",
+            "count": 0
+          },
+          {
+            "id": 118,
+            "code": "tdml",
+            "sortOrder": 55,
+            "label": "M/L",
+            "count": 0
+          },
+          {
+            "id": 119,
+            "code": "tdxl2",
+            "sortOrder": 56,
+            "label": "XL/2XL",
+            "count": 0
+          },
+          {
+            "id": 120,
+            "code": "tdw22",
+            "sortOrder": 57,
+            "label": "22",
+            "count": 0
+          },
+          {
+            "id": 121,
+            "code": "tdw34",
+            "sortOrder": 58,
+            "label": "34",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "sortOrder": 9,
+        "label": "What's Your Usual Size?",
+        "type": 3,
+        "required": false,
+        "average": null,
+        "values": [
+          {
+            "id": 122,
+            "code": "so3xs",
+            "sortOrder": 0,
+            "label": "3XS",
+            "count": 0
+          },
+          {
+            "id": 123,
+            "code": "soxxs",
+            "sortOrder": 1,
+            "label": "2XS",
+            "count": 0
+          },
+          {
+            "id": 124,
+            "code": "soxs",
+            "sortOrder": 2,
+            "label": "XS",
+            "count": 2
+          },
+          {
+            "id": 125,
+            "code": "sos",
+            "sortOrder": 3,
+            "label": "S",
+            "count": 4
+          },
+          {
+            "id": 126,
+            "code": "som",
+            "sortOrder": 4,
+            "label": "M",
+            "count": 4
+          },
+          {
+            "id": 127,
+            "code": "sol",
+            "sortOrder": 5,
+            "label": "L",
+            "count": 2
+          },
+          {
+            "id": 128,
+            "code": "soxl",
+            "sortOrder": 6,
+            "label": "XL",
+            "count": 0
+          },
+          {
+            "id": 129,
+            "code": "so2xl",
+            "sortOrder": 7,
+            "label": "2XL",
+            "count": 0
+          },
+          {
+            "id": 130,
+            "code": "so3xl",
+            "sortOrder": 8,
+            "label": "3XL",
+            "count": 0
+          },
+          {
+            "id": 131,
+            "code": "so23",
+            "sortOrder": 9,
+            "label": "23",
+            "count": 0
+          },
+          {
+            "id": 132,
+            "code": "so24",
+            "sortOrder": 10,
+            "label": "24",
+            "count": 0
+          },
+          {
+            "id": 133,
+            "code": "so25",
+            "sortOrder": 11,
+            "label": "25",
+            "count": 0
+          },
+          {
+            "id": 134,
+            "code": "so26",
+            "sortOrder": 12,
+            "label": "26",
+            "count": 0
+          },
+          {
+            "id": 135,
+            "code": "so27",
+            "sortOrder": 13,
+            "label": "27",
+            "count": 0
+          },
+          {
+            "id": 136,
+            "code": "so28",
+            "sortOrder": 14,
+            "label": "28",
+            "count": 0
+          },
+          {
+            "id": 137,
+            "code": "so29",
+            "sortOrder": 15,
+            "label": "29",
+            "count": 0
+          },
+          {
+            "id": 138,
+            "code": "so30",
+            "sortOrder": 16,
+            "label": "30",
+            "count": 0
+          },
+          {
+            "id": 139,
+            "code": "so31",
+            "sortOrder": 17,
+            "label": "31",
+            "count": 0
+          },
+          {
+            "id": 140,
+            "code": "so32",
+            "sortOrder": 18,
+            "label": "32",
+            "count": 0
+          },
+          {
+            "id": 141,
+            "code": "so33",
+            "sortOrder": 19,
+            "label": "32",
+            "count": 0
+          },
+          {
+            "id": 142,
+            "code": "son00",
+            "sortOrder": 20,
+            "label": "00",
+            "count": 0
+          },
+          {
+            "id": 143,
+            "code": "son0",
+            "sortOrder": 21,
+            "label": "0",
+            "count": 0
+          },
+          {
+            "id": 144,
+            "code": "son2",
+            "sortOrder": 22,
+            "label": "2",
+            "count": 0
+          },
+          {
+            "id": 145,
+            "code": "son4",
+            "sortOrder": 23,
+            "label": "4",
+            "count": 0
+          },
+          {
+            "id": 146,
+            "code": "son6",
+            "sortOrder": 24,
+            "label": "6",
+            "count": 0
+          },
+          {
+            "id": 147,
+            "code": "son8",
+            "sortOrder": 25,
+            "label": "8",
+            "count": 0
+          },
+          {
+            "id": 148,
+            "code": "son10",
+            "sortOrder": 26,
+            "label": "10",
+            "count": 0
+          },
+          {
+            "id": 149,
+            "code": "son12",
+            "sortOrder": 27,
+            "label": "12",
+            "count": 0
+          },
+          {
+            "id": 150,
+            "code": "so35",
+            "sortOrder": 28,
+            "label": "3.5",
+            "count": 0
+          },
+          {
+            "id": 151,
+            "code": "so40",
+            "sortOrder": 29,
+            "label": "4",
+            "count": 0
+          },
+          {
+            "id": 152,
+            "code": "so45",
+            "sortOrder": 30,
+            "label": "4.5",
+            "count": 0
+          },
+          {
+            "id": 153,
+            "code": "so50",
+            "sortOrder": 31,
+            "label": "5",
+            "count": 0
+          },
+          {
+            "id": 154,
+            "code": "so55",
+            "sortOrder": 32,
+            "label": "5.5",
+            "count": 0
+          },
+          {
+            "id": 155,
+            "code": "so60",
+            "sortOrder": 33,
+            "label": "6",
+            "count": 0
+          },
+          {
+            "id": 156,
+            "code": "so65",
+            "sortOrder": 34,
+            "label": "6.5",
+            "count": 0
+          },
+          {
+            "id": 157,
+            "code": "so70",
+            "sortOrder": 35,
+            "label": "7",
+            "count": 0
+          },
+          {
+            "id": 158,
+            "code": "so75",
+            "sortOrder": 36,
+            "label": "7.5",
+            "count": 0
+          },
+          {
+            "id": 159,
+            "code": "so80",
+            "sortOrder": 37,
+            "label": "8",
+            "count": 0
+          },
+          {
+            "id": 160,
+            "code": "so85",
+            "sortOrder": 38,
+            "label": "8.5",
+            "count": 0
+          },
+          {
+            "id": 161,
+            "code": "so90",
+            "sortOrder": 39,
+            "label": "9",
+            "count": 0
+          },
+          {
+            "id": 162,
+            "code": "so95",
+            "sortOrder": 40,
+            "label": "9.5",
+            "count": 0
+          },
+          {
+            "id": 163,
+            "code": "sof10",
+            "sortOrder": 41,
+            "label": "10",
+            "count": 0
+          },
+          {
+            "id": 164,
+            "code": "sof15",
+            "sortOrder": 42,
+            "label": "10.5",
+            "count": 0
+          },
+          {
+            "id": 165,
+            "code": "sof11",
+            "sortOrder": 43,
+            "label": "11",
+            "count": 0
+          },
+          {
+            "id": 166,
+            "code": "so1",
+            "sortOrder": 44,
+            "label": "1",
+            "count": 0
+          },
+          {
+            "id": 167,
+            "code": "so2",
+            "sortOrder": 45,
+            "label": "2",
+            "count": 0
+          },
+          {
+            "id": 168,
+            "code": "so3",
+            "sortOrder": 46,
+            "label": "3",
+            "count": 0
+          },
+          {
+            "id": 169,
+            "code": "soxss",
+            "sortOrder": 47,
+            "label": "XS/S",
+            "count": 0
+          },
+          {
+            "id": 170,
+            "code": "soml",
+            "sortOrder": 48,
+            "label": "M/L",
+            "count": 0
+          },
+          {
+            "id": 171,
+            "code": "soxl2",
+            "sortOrder": 49,
+            "label": "XL/2XL",
+            "count": 0
+          },
+          {
+            "id": 172,
+            "code": "son14",
+            "sortOrder": 50,
+            "label": "14",
+            "count": 0
+          },
+          {
+            "id": 173,
+            "code": "son16",
+            "sortOrder": 51,
+            "label": "16",
+            "count": 0
+          },
+          {
+            "id": 174,
+            "code": "sf115",
+            "sortOrder": 52,
+            "label": "11.5",
+            "count": 0
+          },
+          {
+            "id": 175,
+            "code": "sf12",
+            "sortOrder": 53,
+            "label": "12",
+            "count": 0
+          },
+          {
+            "id": 176,
+            "code": "sf125",
+            "sortOrder": 54,
+            "label": "12.5",
+            "count": 0
+          },
+          {
+            "id": 177,
+            "code": "sf13",
+            "sortOrder": 55,
+            "label": "13",
+            "count": 0
+          },
+          {
+            "id": 178,
+            "code": "soos",
+            "sortOrder": 56,
+            "label": "OS",
+            "count": 0
+          },
+          {
+            "id": 179,
+            "code": "sow22",
+            "sortOrder": 57,
+            "label": "22",
+            "count": 0
+          },
+          {
+            "id": 180,
+            "code": "sow34",
+            "sortOrder": 58,
+            "label": "34",
+            "count": 0
+          }
+        ]
+      }
+    ],
+    "active": true,
+    "ratings": 1096,
+    "attributes": [],
+    "userSettings": {
+      "shopperProfiles": [
+        {
+          "name": "Height",
+          "label": "What's Your Height?",
+          "type": 0,
+          "hidden": false,
+          "required": false,
+          "collectDuringContentSubmit": true,
+          "displayPublic": true,
+          "values": [
+            {
+              "id": 1,
+              "label": "147cm / 4ft 10in",
+              "hidden": false,
+              "sortOrder": 0,
+              "code": "h147"
+            },
+            {
+              "id": 2,
+              "label": "150cm / 4ft 11in",
+              "hidden": false,
+              "sortOrder": 1,
+              "code": "h150"
+            },
+            {
+              "id": 3,
+              "label": "152cm / 5ft 0in",
+              "hidden": false,
+              "sortOrder": 2,
+              "code": "h152"
+            },
+            {
+              "id": 4,
+              "label": "155cm / 5ft 1in",
+              "hidden": false,
+              "sortOrder": 3,
+              "code": "h155"
+            },
+            {
+              "id": 5,
+              "label": "157cm / 5ft 2in",
+              "hidden": false,
+              "sortOrder": 4,
+              "code": "h157"
+            },
+            {
+              "id": 6,
+              "label": "160cm / 5ft 3in",
+              "hidden": false,
+              "sortOrder": 5,
+              "code": "h160"
+            },
+            {
+              "id": 7,
+              "label": "163cm / 5ft 4in",
+              "hidden": false,
+              "sortOrder": 6,
+              "code": "h163"
+            },
+            {
+              "id": 8,
+              "label": "165cm / 5ft 5in",
+              "hidden": false,
+              "sortOrder": 7,
+              "code": "h165"
+            },
+            {
+              "id": 9,
+              "label": "168cm / 5ft 6in",
+              "hidden": false,
+              "sortOrder": 8,
+              "code": "h168"
+            },
+            {
+              "id": 10,
+              "label": "170cm / 5ft 7in",
+              "hidden": false,
+              "sortOrder": 9,
+              "code": "h170"
+            },
+            {
+              "id": 11,
+              "label": "173cm / 5ft 8in",
+              "hidden": false,
+              "sortOrder": 10,
+              "code": "h173"
+            },
+            {
+              "id": 12,
+              "label": "175cm / 5ft 9in",
+              "hidden": false,
+              "sortOrder": 11,
+              "code": "h175"
+            },
+            {
+              "id": 13,
+              "label": "178cm / 5ft 10in",
+              "hidden": false,
+              "sortOrder": 12,
+              "code": "h178"
+            },
+            {
+              "id": 14,
+              "label": "180cm / 5ft 11in",
+              "hidden": false,
+              "sortOrder": 13,
+              "code": "h180"
+            },
+            {
+              "id": 15,
+              "label": "183cm / 6ft 0in",
+              "hidden": false,
+              "sortOrder": 14,
+              "code": "h183"
+            },
+            {
+              "id": 16,
+              "label": "185cm / 6ft 1in",
+              "hidden": false,
+              "sortOrder": 15,
+              "code": "h185"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
