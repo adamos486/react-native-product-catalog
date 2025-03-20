@@ -10,6 +10,7 @@ import {
     SafeAreaView,
 } from 'react-native';
 import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
+import Carousel from '../components/Carousel';
 
 export const Catalog = ({navigation}: { navigation: any }) => {
     const [products, setProducts] = useState([]);
@@ -80,6 +81,8 @@ export const Catalog = ({navigation}: { navigation: any }) => {
                     <Text>All Filters</Text>
                 </TouchableOpacity>
             </ScrollView>
+            {/*Carousel */}
+            <Carousel />
 
             {/* Product Grid */}
             <FlatList

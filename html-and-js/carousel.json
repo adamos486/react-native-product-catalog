@@ -1,0 +1,107 @@
+[
+  {
+    "name": "All Clothing",
+    "link": "/us/en/clothing",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a02_120669_10252_on_b"
+  },
+  {
+    "name": "Activewear",
+    "link": "/us/en/clothing/womens-workout-clothes",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a01_118435_18891_off_a"
+  },
+  {
+    "name": "Blazers & Vests",
+    "link": "/us/en/clothing/suits-for-women/suit-blazers",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a04_115305_30654_off_a"
+  },
+  {
+    "name": "Dresses",
+    "link": "/us/en/clothing/dresses",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a08_121524_19773_off_a"
+  },
+  {
+    "name": "Intimates & Shapewear",
+    "link": "/us/en/clothing/intimates",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a09_59146_1274_off_a"
+  },
+  {
+    "name": "Jackets & Coats",
+    "link": "/us/en/clothing/coats-jackets",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a04_115480_1274_off_a"
+  },
+  {
+    "name": "Jeans",
+    "link": "/us/en/clothing/jeans",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a06_123292_33808_off_a"
+  },
+  {
+    "name": "Jumpsuits & Rompers",
+    "link": "/us/en/clothing/jumpsuits-rompers",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a27_116949_19049_off_a"
+  },
+  {
+    "name": "Knitwear",
+    "link": "/us/en/clothing/knitwear",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a03_114360_10252_off_a"
+  },
+  {
+    "name": "Leggings & Bike Shorts",
+    "link": "/us/en/clothing/leggings-and-bike-shorts",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a06_118693_1274_off_a"
+  },
+  {
+    "name": "Pants",
+    "link": "/us/en/clothing/pants",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a06_99378_30654_off_a"
+  },
+  {
+    "name": "Shirts & Blouses",
+    "link": "/us/en/clothing/blouses",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a02_124543_19773_off_a"
+  },
+  {
+    "name": "Shorts",
+    "link": "/us/en/clothing/shorts",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a26_81375_1274_off_a"
+  },
+  {
+    "name": "Skirts",
+    "link": "/us/en/clothing/skirts",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a07_120828_30654_off_a"
+  },
+  {
+    "name": "Suits & Tailoring",
+    "link": "/us/en/clothing/suits-for-women",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a04_112294_1274_off_a"
+  },
+  {
+    "name": "Cardigans & Sweaters",
+    "link": "/us/en/clothing/sweaters",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a03_106258_10252_off_a"
+  },
+  {
+    "name": "Sweatpants",
+    "link": "/us/en/clothing/sweatsuit-sets/sweat-pants",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/f24_a06_116230_30654_off_a"
+  },
+  {
+    "name": "Sweatshirts & Hoodies",
+    "link": "/us/en/clothing/sweatsuit-sets/sweat-shirts",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a03_116269_1274_off_a"
+  },
+  {
+    "name": "Sweats",
+    "link": "/us/en/clothing/sweatsuit-sets",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a03_116267_19049_off_a"
+  },
+  {
+    "name": "Tops & Bodysuits",
+    "link": "/us/en/clothing/tops",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a01_115230_19773_off_a"
+  },
+  {
+    "name": "T-Shirts",
+    "link": "/us/en/clothing/tshirts",
+    "image": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/s25_a01_124463_32770_off_a"
+  }
+]
