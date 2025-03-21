@@ -1,5 +1,6 @@
 import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from 'react-native';
 import {useVideoPlayer, VideoView} from 'expo-video';
+import Header from '../components/Header';
 
 // const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
 const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best,f_auto:video,c_fill,w_540/sp25-wk7-hp-03-18-hero-sm';
@@ -13,14 +14,8 @@ export const Home = ({navigation} : {navigation: any}) => {
     return (
         <SafeAreaView style={styles.safeArea}>
             <View style={styles.wrapper}>
+                <Header navigation />
                 <ScrollView contentContainerStyle={styles.container}>
-                    <View style={styles.header}>
-                        <Text style={styles.headerText}>Aritzia</Text>
-                        <View style={{width: 210}}></View>
-                        <Text style={styles.headerText}>Search</Text>
-                        <View style={{width: 10}}></View>
-                        <Text style={styles.headerText}>Cart</Text>
-                    </View>
                     <View style={styles.videoContainer}>
                         <VideoView style={styles.video} player={player} nativeControls={false}/>
                         <View style={styles.overlay}>

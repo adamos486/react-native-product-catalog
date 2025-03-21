@@ -11,6 +11,7 @@ import {
 } from 'react-native';
 import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
 import Carousel from '../components/Carousel';
+import Header from '../components/Header';
 
 export const Catalog = ({navigation}: { navigation: any }) => {
     const [products, setProducts] = useState([]);
@@ -50,40 +51,38 @@ export const Catalog = ({navigation}: { navigation: any }) => {
         </View>
     );
 
+    const ListHeader = () => {
+        return (
+            <>
+                <ScrollView horizontal style={styles.filterOptions}>
+                    <TouchableOpacity style={styles.filterOption}>
+                        <Text>Sort</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.filterOption}>
+                        <Text>Size</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.filterOption}>
+                        <Text>Color</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.filterOption}>
+                        <Text>Brand</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.filterOption}>
+                        <Text>All Filters</Text>
+                    </TouchableOpacity>
+                </ScrollView>
+                {/*Carousel */
+                }
+                <Carousel/>
+            </>
+        )
+    }
+
     return (
         <SafeAreaView style={styles.container}>
             {/* Header */}
-            <View style={styles.header}>
-                <TouchableOpacity onPress={() => navigation.pop()}><Text
-                    style={styles.logo}>ARITZIA</Text></TouchableOpacity>
-                <View style={styles.headerIcons}>
-                    <Feather name="search" size={24} color="black" style={styles.headerIcon}/>
-                    <SimpleLineIcons name="bag" size={24} color="black" style={styles.headerIcon}/>
-                    <Feather name="menu" size={24} color="black" style={styles.headerIcon}/>
-                </View>
-            </View>
-
-            {/* Filter Options */}
-            <ScrollView horizontal style={styles.filterOptions}>
-                <TouchableOpacity style={styles.filterOption}>
-                    <Text>Sort</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={styles.filterOption}>
-                    <Text>Size</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={styles.filterOption}>
-                    <Text>Color</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={styles.filterOption}>
-                    <Text>Brand</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={styles.filterOption}>
-                    <Text>All Filters</Text>
-                </TouchableOpacity>
-            </ScrollView>
-            {/*Carousel */}
-            <Carousel />
-
+            <Header navigation={navigation}/>
+            {/*Vertical scroll list*/}
             {/* Product Grid */}
             <FlatList
                 data={products}
@@ -91,6 +90,7 @@ export const Catalog = ({navigation}: { navigation: any }) => {
                 keyExtractor={item => item.id}
                 numColumns={2}
                 contentContainerStyle={styles.productList}
+                ListHeaderComponent={ListHeader}
             />
         </SafeAreaView>
     );
