@@ -1,11 +1,19 @@
 import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from 'react-native';
 import {useVideoPlayer, VideoView} from 'expo-video';
 import Header from '../components/Header';
+import { StackNavigationProp } from '@react-navigation/stack';
+import { RootStackParamList } from '../types';
 
 // const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
 const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best,f_auto:video,c_fill,w_540/sp25-wk7-hp-03-18-hero-sm';
 
-export const Home = ({navigation} : {navigation: any}) => {
+type HomeScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Home'>
+
+type HomeProps = {
+    navigation: HomeScreenNavigationProp
+}
+
+export const Home: React.FC<HomeProps> = ({navigation}) => {
     const player = useVideoPlayer(videoSource, player => {
         player.loop = true;
         player.play();

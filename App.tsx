@@ -4,8 +4,9 @@ import {createStackNavigator} from '@react-navigation/stack'
 import * as Font from 'expo-font'
 import AppLoading from 'expo-app-loading'
 import {useState} from 'react'
+import { RootStackParamList } from './types'
 
-const Stack = createStackNavigator()
+const Stack = createStackNavigator<RootStackParamList>()
 
 const fetchFonts = () => {
     return Font.loadAsync({

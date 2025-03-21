@@ -12,8 +12,16 @@ import {
 import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
 import Carousel from '../components/Carousel';
 import Header from '../components/Header';
+import { StackNavigationProp } from '@react-navigation/stack';
+import { RootStackParamList } from '../types';
 
-export const Catalog = ({navigation}: { navigation: any }) => {
+type CatalogScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Catalog'>
+
+type CatalogProps = {
+    navigation: CatalogScreenNavigationProp
+}
+
+export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
