@@ -14,7 +14,7 @@ export const Home = ({navigation} : {navigation: any}) => {
     return (
         <SafeAreaView style={styles.safeArea}>
             <View style={styles.wrapper}>
-                <Header navigation />
+                <Header onAritziaTap={() => {}} />
                 <ScrollView contentContainerStyle={styles.container}>
                     <View style={styles.videoContainer}>
                         <VideoView style={styles.video} player={player} nativeControls={false}/>

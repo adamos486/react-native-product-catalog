@@ -81,7 +81,7 @@ export const Catalog = ({navigation}: { navigation: any }) => {
     return (
         <SafeAreaView style={styles.container}>
             {/* Header */}
-            <Header navigation={navigation}/>
+            <Header onAritziaTap={() => navigation.pop()}/>
             {/*Vertical scroll list*/}
             {/* Product Grid */}
             <FlatList

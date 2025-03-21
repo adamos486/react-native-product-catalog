@@ -2,10 +2,10 @@ import React from "react"
 import {TouchableOpacity, StyleSheet, Text, View} from "react-native"
 import {Feather, SimpleLineIcons} from '@expo/vector-icons';
 
-const Header = ({navigation}: { navigation: any }) => {
+const Header = ({onAritziaTap }: { onAritziaTap: () => void }) => {
     return (
         <View style={styles.header}>
-            <TouchableOpacity onPress={() => navigation.pop()}>
+            <TouchableOpacity onPress={() => onAritziaTap()}>
                 <Text style={styles.logo}>ARITZIA</Text>
             </TouchableOpacity>
             <View style={styles.headerIcons}>
