@@ -1,11 +1,16 @@
-import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView} from 'react-native';
+import {StyleSheet, View, Text, TouchableOpacity, ScrollView, SafeAreaView, Dimensions} from 'react-native';
 import {useVideoPlayer, VideoView} from 'expo-video';
 import Header from '../components/Header';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RootStackParamList } from '../types';
 
-// const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best/sp25-wk4-hp-02-25-feature-sm.mp4';
 const videoSource = 'https://assets.aritzia.com/video/upload/q_auto:best,f_auto:video,c_fill,w_540/sp25-wk7-hp-03-18-hero-sm';
+const chiffonSource = 'https://assets.aritzia.com/video/upload/q_auto:best,f_auto:video,c_fill,w_540/sp25-wk7-hp-03-22-hero-sm';
+
+const videoData = [
+    {id: '1', source: videoSource},
+    {id: '2', source: chiffonSource},
+]
 
 type HomeScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Home'>
 
@@ -13,10 +18,16 @@ type HomeProps = {
     navigation: HomeScreenNavigationProp
 }
 
+const windowHeight = Dimensions.get('window').height
+
 export const Home: React.FC<HomeProps> = ({navigation}) => {
-    const player = useVideoPlayer(videoSource, player => {
+    const colorDropPlayer = useVideoPlayer(videoSource, player => {
         player.loop = true;
-        player.play();
+        player.play()
+    })
+    const chiffonPlayer = useVideoPlayer(chiffonSource, player => {
+        player.loop = true
+        player.play()
     })
 
     return (
@@ -25,7 +36,17 @@ export const Home: React.FC<HomeProps> = ({navigation}) => {
                 <Header onAritziaTap={() => {}} />
                 <ScrollView contentContainerStyle={styles.container}>
                     <View style={styles.videoContainer}>
-                        <VideoView style={styles.video} player={player} nativeControls={false}/>
+                        <VideoView style={styles.video} player={colorDropPlayer} nativeControls={false}/>
+                        <View style={styles.overlay}>
+                            <View style={{height: 300}}></View>
+                            <Text style={styles.overlayText}>The Work Wardrobe</Text>
+                            <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('Catalog')}>
+                                <Text style={styles.buttonText}>Shop Looks</Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                    <View style={styles.videoContainer}>
+                        <VideoView style={styles.video} player={chiffonPlayer} nativeControls={false}/>
                         <View style={styles.overlay}>
                             <View style={{height: 300}}></View>
                             <Text style={styles.overlayText}>The Work Wardrobe</Text>
@@ -68,10 +89,10 @@ const styles = StyleSheet.create({
         backgroundColor: "#fff"
     },
     container: {
-        flexGrow: 1,
+        height: '100%',
         backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center',
+        alignItems: 'stretch',
+        justifyContent: 'flex-start',
     },
     videoContainer: {
         width: '100%',

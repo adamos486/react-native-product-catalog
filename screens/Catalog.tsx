@@ -8,6 +8,7 @@ import {
     FlatList,
     TouchableOpacity,
     SafeAreaView,
+    Dimensions,
 } from 'react-native';
 import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
 import Carousel from '../components/Carousel';
@@ -21,6 +22,8 @@ type CatalogProps = {
     navigation: CatalogScreenNavigationProp
 }
 
+const width = Dimensions.get('window').width
+
 export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
     const [products, setProducts] = useState([]);
 
@@ -29,6 +32,8 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
             try {
                 const response = await fetch('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/products1-FrzYf4LeHlyB478e20ufBNb29XDCua.json');
                 const json = await response.json();
+                // console.log(JSON.stringify(json))
+                console.log(json.data.map(({ id }: { id: string }) => id))
                 setProducts(json.data);
             } catch (error) {
                 console.error('Error fetching data:', error);
@@ -95,7 +100,7 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
             <FlatList
                 data={products}
                 renderItem={renderProductItem}
-                keyExtractor={item => item.id}
+                keyExtractor={item => item}
                 numColumns={2}
                 contentContainerStyle={styles.productList}
                 ListHeaderComponent={ListHeader}
@@ -139,14 +144,14 @@ const styles = StyleSheet.create({
     productItem: {
         flex: 1,
         margin: 8,
+        width: width * 0.5,
         backgroundColor: '#f9f9f9',
         padding: 12,
         borderRadius: 8,
     },
     productImage: {
-        width: '100%',
-        height: 200,
-        borderRadius: 8,
+        width: width * 0.4,
+        height: width * 0.7,
         marginBottom: 8,
     },
     colorOptions: {
