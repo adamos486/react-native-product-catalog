@@ -14,22 +14,20 @@ type HomeProps = {
     navigation: HomeScreenNavigationProp
 }
 
-const windowHeight = Dimensions.get('window').height
-
 export const Home: React.FC<HomeProps> = ({navigation}) => {
     const videoBanners = [
         {
             id: '1',
             source: videoSource,
-            text: "The Work Wardrobe",
-            buttonText: "Shop Looks",
+            text: "Colour Drop: The Indigo Effect",
+            buttonText: "Shop Now",
             onButtonPress: () => navigation.navigate('Catalog')
         },
         {
             id: '2',
             source: chiffonSource,
-            text: "The Work Wardrobe",
-            buttonText: "Shop Looks",
+            text: "New Fête Chiffon™",
+            buttonText: "Shop Now",
             onButtonPress: () => navigation.navigate('Catalog')
         },
     ]
