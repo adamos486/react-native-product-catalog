@@ -38,17 +38,16 @@ const styles = StyleSheet.create({
     videoContainer: {
         width: screenWidth,
         position: 'relative',
+        justifyContent: 'flex-start',
+        alignItems: 'flex-start',
     },
     video: {
-        width: screenHeight,
-        height: screenWidth,
+        width: screenWidth,
+        height: screenHeight-160,
     },
     overlay: {
         position: 'absolute',
-        top: 90,
-        left: 15,
-        right: 0,
-        bottom: 0,
+        paddingLeft: 15,
         justifyContent: 'flex-start',
         alignItems: 'flex-start',
     },
