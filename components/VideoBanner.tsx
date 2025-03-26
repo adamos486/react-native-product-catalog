@@ -65,7 +65,6 @@ const styles = StyleSheet.create({
         backgroundColor: 'rgba(0, 0, 0, 0.5)', // Semi-transparent button background
         paddingHorizontal: 20,
         paddingVertical: 10,
-        borderRadius: 5,
     },
     buttonText: {
         color: '#fff',

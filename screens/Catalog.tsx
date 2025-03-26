@@ -16,6 +16,8 @@ import Header from '../components/Header';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RootStackParamList } from '../types';
 
+const catalogData = require('../html-and-js/matrix/scrolling_list.json')
+
 type CatalogScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Catalog'>
 
 type CatalogProps = {
@@ -28,19 +30,7 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        const fetchData = async () => {
-            try {
-                const response = await fetch('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/products1-FrzYf4LeHlyB478e20ufBNb29XDCua.json');
-                const json = await response.json();
-                // console.log(JSON.stringify(json))
-                console.log(json.data.map(({ id }: { id: string }) => id))
-                setProducts(json.data);
-            } catch (error) {
-                console.error('Error fetching data:', error);
-            }
-        };
-
-        fetchData();
+        setProducts(catalogData.map((item: any) => item.data[0]))
     }, []);
 
     const renderProductItem = ({item}: { item: any }) => (
