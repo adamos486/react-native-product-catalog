@@ -15,6 +15,7 @@ import Carousel from '../components/Carousel';
 import Header from '../components/Header';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RootStackParamList } from '../types';
+import { titleCase } from '../utilities/textTools';
 
 const catalogData = require('../html-and-js/matrix/scrolling_list.json')
 
@@ -33,6 +34,14 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
         setProducts(catalogData.map((item: any) => item.data[0]))
     }, []);
 
+    const showPrice = (price: number, priceMax: number): any => {
+        if (price && priceMax) {
+            return (<Text style={{color: 'red', fontFamily: 'NonSeasonal', fontSize: 12}}>{`$${price} - $${priceMax}`}</Text>)
+        } else if (price && !priceMax) {
+            return (<Text style={{fontFamily: 'NonSeasonal', fontSize: 12}}>{`$${price}`}</Text>)
+        }
+    }
+
     const renderProductItem = ({item}: { item: any }) => (
         <View style={styles.productItem}>
             <Image
@@ -47,10 +56,8 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
                     <Text style={styles.additionalColors}>+{item.imageGroups.length - 5}</Text>}
             </View>
             <Text style={styles.brandName}>{item.brand}</Text>
-            <Text style={styles.productName}>{item.name}</Text>
-            <Text style={styles.productPrice}>${item.price} - ${item.priceMax}</Text>
-            <Text style={styles.recentlyViewed}>RECENTLY VIEWED</Text>
-            <AntDesign name="hearto" size={24} color="black" style={styles.saveIcon}/>
+            <Text style={styles.productName}>{titleCase(item.name)}</Text>
+            {showPrice(item.price, item.priceMax)}
         </View>
     );
 
@@ -90,7 +97,7 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
             <FlatList
                 data={products}
                 renderItem={renderProductItem}
-                keyExtractor={item => item}
+                keyExtractor={item => item.id}
                 numColumns={2}
                 contentContainerStyle={styles.productList}
                 ListHeaderComponent={ListHeader}
@@ -113,6 +120,7 @@ const styles = StyleSheet.create({
     logo: {
         fontSize: 24,
         fontWeight: 'bold',
+        fontFamily: 'NonSeasonal'
     },
     headerIcons: {
         flexDirection: 'row',
@@ -133,14 +141,11 @@ const styles = StyleSheet.create({
     },
     productItem: {
         flex: 1,
-        margin: 8,
         width: width * 0.5,
-        backgroundColor: '#f9f9f9',
-        padding: 12,
-        borderRadius: 8,
+        backgroundColor: '#fff',
     },
     productImage: {
-        width: width * 0.4,
+        width: width * 0.47,
         height: width * 0.7,
         marginBottom: 8,
     },
@@ -160,27 +165,26 @@ const styles = StyleSheet.create({
         color: 'gray',
     },
     brandName: {
-        fontSize: 16,
+        fontSize: 12,
         fontWeight: 'bold',
         marginBottom: 4,
+        fontFamily: 'NonSeasonal',
     },
     productName: {
-        fontSize: 14,
+        fontSize: 12,
         marginBottom: 4,
+        fontFamily: 'NonSeasonal'
     },
     productPrice: {
         fontSize: 14,
         color: 'gray',
         marginBottom: 4,
+        fontFamily: 'NonSeasonal'
     },
     recentlyViewed: {
         fontSize: 12,
         color: 'gray',
-    },
-    saveIcon: {
-        position: 'absolute',
-        top: 10,
-        right: 10,
+        fontFamily: 'NonSeasonal'
     },
 });
 
