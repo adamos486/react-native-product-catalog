@@ -1,4 +1,4 @@
-import {StyleSheet, Text, TouchableOpacity, View} from "react-native";
+import {Dimensions, StyleSheet, Text, TouchableOpacity, View} from "react-native";
 import {useVideoPlayer, VideoView} from "expo-video";
 
 type VideoBannerProps = {
@@ -9,6 +9,9 @@ type VideoBannerProps = {
     onButtonPress: () => void
 }
 
+const screenHeight = Dimensions.get('window').height
+const screenWidth = Dimensions.get('window').width
+
 const VideoBanner: React.FC<VideoBannerProps> = ({ text, buttonText, source, onButtonPress }) => {
     const player = useVideoPlayer(source, player => {
         player.loop = true;
@@ -16,7 +19,7 @@ const VideoBanner: React.FC<VideoBannerProps> = ({ text, buttonText, source, onB
     })
 
     return (
-        <View style={styles.videoContainer}>
+        <View>
             <VideoView style={styles.video} player={player} nativeControls={false}/>
             <View style={styles.overlay}>
                 <View style={{height: 300}} />
@@ -33,12 +36,12 @@ export default VideoBanner
 
 const styles = StyleSheet.create({
     videoContainer: {
-        width: '100%',
+        width: screenWidth,
         position: 'relative',
     },
     video: {
-        width: '100%',
-        height: '100%',
+        width: screenHeight,
+        height: screenWidth,
     },
     overlay: {
         position: 'absolute',
