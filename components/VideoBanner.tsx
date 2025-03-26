@@ -1,8 +1,8 @@
 import {Dimensions, StyleSheet, Text, TouchableOpacity, View} from "react-native";
 import {useVideoPlayer, VideoView} from "expo-video";
+import type React from 'react'
 
 type VideoBannerProps = {
-    id: string
     source: string
     text: string
     buttonText: string

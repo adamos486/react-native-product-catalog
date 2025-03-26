@@ -1,11 +1,15 @@
-import React from "react"
+import type React from "react"
 import {TouchableOpacity, StyleSheet, Text, View} from "react-native"
 import {Feather, SimpleLineIcons} from '@expo/vector-icons';
 
-const Header = ({onAritziaTap }: { onAritziaTap: () => void }) => {
+type HeaderProps =  {
+    onAritziaTap?: () => void
+}
+
+const Header: React.FC<HeaderProps> = ({ onAritziaTap = () => {} }: HeaderProps) => {
     return (
         <View style={styles.header}>
-            <TouchableOpacity onPress={() => onAritziaTap()}>
+            <TouchableOpacity onPress={() => onAritziaTap?.()}>
                 <Text style={styles.logo}>ARITZIA</Text>
             </TouchableOpacity>
             <View style={styles.headerIcons}>
