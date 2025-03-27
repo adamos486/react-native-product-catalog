@@ -1,4 +1,4 @@
-import {StyleSheet, View, Dimensions, FlatList, SafeAreaView, Text, ScrollView} from 'react-native';
+import {View, FlatList, SafeAreaView} from 'react-native';
 import Header from '../components/Header';
 import type { StackNavigationProp } from '@react-navigation/stack';
 import type { RootStackParamList } from '../types';

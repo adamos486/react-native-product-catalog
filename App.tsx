@@ -1,4 +1,4 @@
-import {Home, Catalog} from './screens'
+import {Home, Catalog, ProductDetail} from './screens'
 import {NavigationContainer} from '@react-navigation/native'
 import {createStackNavigator} from '@react-navigation/stack'
 import type { RootStackParamList } from './types'
@@ -16,6 +16,7 @@ const App = () => {
             <Stack.Navigator initialRouteName="Home" screenOptions={{headerShown: false}}>
                 <Stack.Screen name="Home" component={Home}/>
                 <Stack.Screen name="Catalog" component={Catalog}/>
+                <Stack.Screen name="ProductDetail" component={ProductDetail}/>
             </Stack.Navigator>
         </NavigationContainer>
     )

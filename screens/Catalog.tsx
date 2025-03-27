@@ -1,4 +1,5 @@
-import React, {useState, useEffect} from 'react';
+import type React from 'react'
+import {useState, useEffect} from 'react'
 import {
     StyleSheet,
     Text,
@@ -10,14 +11,12 @@ import {
     SafeAreaView,
     Dimensions,
 } from 'react-native';
-import {Feather, AntDesign, SimpleLineIcons} from '@expo/vector-icons';
 import Carousel from '../components/Carousel';
 import Header from '../components/Header';
-import { StackNavigationProp } from '@react-navigation/stack';
-import { RootStackParamList } from '../types';
+import type { StackNavigationProp } from '@react-navigation/stack';
+import type {CatalogData, CatalogImageGroup, RootStackParamList} from '../types';
 import { titleCase } from '../utilities/textTools';
-
-const catalogData = require('../html-and-js/matrix/scrolling_list.json')
+import catalogData from '../html-and-js/matrix/scrolling_list.json';
 
 type CatalogScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Catalog'>
 
@@ -28,30 +27,32 @@ type CatalogProps = {
 const width = Dimensions.get('window').width
 
 export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
-    const [products, setProducts] = useState([]);
+    const [products, setProducts] = useState<CatalogData[]>([]);
 
     useEffect(() => {
-        setProducts(catalogData.map((item: any) => item.data[0]))
+        setProducts(catalogData.map(item => item.data[0]))
     }, []);
 
-    const showPrice = (price: number, priceMax: number): any => {
-        if (price && priceMax) {
+    const showPrice = (price: number, priceMax?: number) => {
+        if (priceMax)
             return (<Text style={{color: 'red', fontFamily: 'NonSeasonal', fontSize: 12}}>{`$${price} - $${priceMax}`}</Text>)
-        } else if (price && !priceMax) {
-            return (<Text style={{fontFamily: 'NonSeasonal', fontSize: 12}}>{`$${price}`}</Text>)
-        }
+        return (<Text style={{fontFamily: 'NonSeasonal', fontSize: 12}}>{`$${price}`}</Text>)
     }
 
-    const renderProductItem = ({item}: { item: any }) => (
+    const renderProductItem = ({item}: { item: CatalogData }) => (
         <View style={styles.productItem}>
             <Image
                 style={styles.productImage}
                 source={{uri: item.imageGroups[0].images[0].link}} // Use the first image from the first image group
             />
             <View style={styles.colorOptions}>
-                {item.imageGroups.filter((group: any) => group.variationAttributes && group.variationAttributes.length > 0).map((group: any, index: any) => (
-                    <View key={index} style={styles.colorCircle}/>
-                ))}
+                {
+                    item.imageGroups
+                        .filter((group: CatalogImageGroup) => group.variationAttributes && group.variationAttributes.length > 0)
+                        .map((_: CatalogImageGroup, index: number) => (
+                            <View key={index} style={styles.colorCircle}/>
+                        ))
+                }
                 {item.imageGroups.length > 5 &&
                     <Text style={styles.additionalColors}>+{item.imageGroups.length - 5}</Text>}
             </View>
@@ -81,9 +82,7 @@ export const Catalog: React.FC<CatalogProps> = ({navigation}) => {
                         <Text>All Filters</Text>
                     </TouchableOpacity>
                 </ScrollView>
-                {/*Carousel */
-                }
-                <Carousel/>
+                <Carousel />
             </>
         )
     }

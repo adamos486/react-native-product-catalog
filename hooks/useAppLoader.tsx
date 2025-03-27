@@ -21,7 +21,6 @@ export const useAppLoader = () => {
             } catch (e) {
                 console.warn(e);
             } finally {
-                // Tell the application to render
                 setAppIsReady(true);
             }
         }
